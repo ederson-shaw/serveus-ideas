@@ -69,7 +69,7 @@ h1{font:800 112px/1 "Fira Sans Compressed",sans-serif;color:var(--ink);text-tran
 .whole{display:inline-flex;align-items:center;justify-content:center;align-self:flex-start;min-height:44px;margin-top:12px;padding:0 24px;border-radius:24px;background:var(--ink);color:#fff;font-weight:600;font-size:18px}
 .whole .m{display:none}
 .post blockquote{margin-top:20px;font-size:22px;line-height:1.35}
-.from{margin-top:8px;font-size:16px;color:var(--grey)}
+.post .source{margin-top:8px;font-size:16px;color:var(--grey)}
 .open{display:inline-flex;align-items:center;align-self:flex-start;min-height:44px;margin-top:12px;color:var(--ink);font-weight:700;font-size:20px;text-decoration:underline;text-underline-offset:4px}
 .evidence{margin-top:12px;font-size:18px;color:var(--grey)}
 .lightbox{display:none;position:fixed;inset:0;z-index:50;background:rgba(20,30,40,.75);overflow:auto;padding:16px}
